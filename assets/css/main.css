@@ -119,6 +119,10 @@ input, select, textarea {
 		text-decoration: none;
 	}
 
+ a.no_underline {
+		border-bottom: dotted 0px;
+	}
+
 		a:hover {
 			border-bottom-color: transparent;
 		}
