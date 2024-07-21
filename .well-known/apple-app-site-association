@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "details": [{
+            "appIDs": ["844LLMHN8Q.uk.co.peakridge.Teamsheet"],
+            "components": [{
+                "/": "/teamsheet/*",
+                "comment": "Matches any URL whose path starts with /teamsheet/"
+            }]
+        }]
+    }
+}
