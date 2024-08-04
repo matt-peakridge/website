@@ -1,11 +1,18 @@
 {
     "applinks": {
-        "details": [{
-            "appIDs": ["844LLMHN8Q.uk.co.peakridge.Teamsheet"],
-            "components": [{
-                "/": "/teamsheet/*",
-                "comment": "Matches any URL whose path starts with /teamsheet/"
-            }]
-        }]
+        "details": [
+            {"appIDs": ["844LLMHN8Q.uk.co.peakridge.Teamsheet"],
+             "components": [{
+                    "/": "/teamsheet/*",
+                    "comment": "Matches any URL whose path starts with /teamsheet/"
+                }]
+            },
+            {"appIDs": ["844LLMHN8Q.uk.co.peakridge.FootballStats"],
+             "components": [{
+                    "/": "/dugout/*",
+                    "comment": "Matches any URL whose path starts with /dugout/"
+                }]
+            }
+        ]
     }
 }
