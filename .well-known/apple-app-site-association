@@ -12,6 +12,12 @@
                     "/": "/dugout/*",
                     "comment": "Matches any URL whose path starts with /dugout/"
                 }]
+            },
+            {"appIDs": ["844LLMHN8Q.uk.co.peakridge.FootballCoach100Skills"],
+             "components": [{
+                    "/": "/soocerskills/*",
+                    "comment": "Matches any URL whose path starts with /soocerskills/"
+                }]
             }
         ]
     }
