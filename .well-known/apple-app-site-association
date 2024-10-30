@@ -18,6 +18,12 @@
                     "/": "/soccerskills/*",
                     "comment": "Matches any URL whose path starts with /soccerskills/"
                 }]
+            },
+            {"appIDs": ["844LLMHN8Q.uk.co.peakridge.StablefordConnect"],
+             "components": [{
+                    "/": "/stablefordconnect/*",
+                    "comment": "Matches any URL whose path starts with /stablefordconnect/"
+                }]
             }
         ]
     }
