@@ -24,6 +24,12 @@
                     "/": "/stablefordconnect/*",
                     "comment": "Matches any URL whose path starts with /stablefordconnect/"
                 }]
+            },
+            {"appIDs": ["844LLMHN8Q.uk.co.peakridge.NetballMatchManager"],
+             "components": [{
+                    "/": "/netball/*",
+                    "comment": "Matches any URL whose path starts with /netball/"
+                }]
             }
         ]
     }
