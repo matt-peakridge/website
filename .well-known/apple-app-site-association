@@ -30,6 +30,12 @@
                     "/": "/netball/*",
                     "comment": "Matches any URL whose path starts with /netball/"
                 }]
+            },
+            {"appIDs": ["844LLMHN8Q.uk.co.peakridge.bingocardplayandprint"],
+             "components": [{
+                    "/": "/bingocards/*",
+                    "comment": "Matches any URL whose path starts with /bingocards/"
+                }]
             }
         ]
     }
