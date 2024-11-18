@@ -36,6 +36,12 @@
                     "/": "/bingocards/*",
                     "comment": "Matches any URL whose path starts with /bingocards/"
                 }]
+            },
+            {"appIDs": ["844LLMHN8Q.uk.co.peakridge.WalkingChallenge"],
+             "components": [{
+                    "/": "/walkingchallenge/*",
+                    "comment": "Matches any URL whose path starts with /walkingchallenge/"
+                }]
             }
         ]
     }
