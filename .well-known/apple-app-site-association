@@ -42,6 +42,12 @@
                     "/": "/walkingchallenge/*",
                     "comment": "Matches any URL whose path starts with /walkingchallenge/"
                 }]
+            },
+            {"appIDs": ["844LLMHN8Q.uk.co.peakridge.TennisLiveScoreAndStats"],
+             "components": [{
+                    "/": "/tennislivescoreandstats/*",
+                    "comment": "Matches any URL whose path starts with /tennislivescoreandstats/"
+                }]
             }
         ]
     }
